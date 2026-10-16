@@ -1,4 +1,7 @@
-<!-- YumeSKR GitHub Profile · English version -->
+<!--
+  YumeSKR · GitHub Profile (English)
+  Language versions: README.md / README.ja.md. Keep the banner image in the same folder.
+-->
 
 <div align="center">
 
@@ -6,101 +9,137 @@
 
 <br />
 
-# 🌙 YumeSKR's Little Planet
+# 🌸 YumeSKR
 
 <a href="https://github.com/YumeSKR">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=25&pause=900&color=FF6FA5&center=true&vCenter=true&width=720&height=58&lines=Welcome+to+YumeSKR%27s+little+planet+%E2%9C%A8;Dream+a+little%2C+code+a+little+%E2%99%A1;A+little+more+joy+and+curiosity+today+%E2%9C%BF" alt="YumeSKR animated welcome" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=24&pause=1000&color=FF6FA5&center=true&vCenter=true&width=760&height=52&lines=Welcome+to+YumeSKR%27s+little+planet+%E2%9C%A8;Turning+favorite+things+into+tiny+projects+%E2%99%A1;A+little+curious%2C+a+little+cheerful+%E2%9C%BF" alt="YumeSKR animated welcome" />
 </a>
 
 <br />
 
-<a href="README.md">🇨🇳 简体中文</a>　·　<a href="README.ja.md">🇯🇵 日本語</a>
+<a href="https://github.com/YumeSKR/YumeSKR/blob/main/README.md">🇨🇳 简体中文</a>　·　<a href="https://github.com/YumeSKR/YumeSKR/blob/main/README.ja.md">🇯🇵 日本語</a>
 
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=YumeSKR&label=VISITORS&color=ff9ec4&style=for-the-badge" alt="Profile visitor count" />
-<img src="https://img.shields.io/badge/mood-dreamy%20%26%20curious-ffb7c5?style=for-the-badge" alt="Dreamy and curious" />
-<img src="https://img.shields.io/badge/status-growing%20every%20day-ffe08a?style=for-the-badge" alt="Growing every day" />
+<img src="https://img.shields.io/badge/mood-curious%20%26%20gentle-ffb7c5?style=for-the-badge" alt="Mood: curious and gentle" />
+<img src="https://img.shields.io/badge/status-growing%20slowly-ffe08a?style=for-the-badge" alt="Status: growing slowly" />
 
 </div>
 
 ---
 
-## 🎀 About This Little Universe
+## 🎀 About Me
 
-Hi, I'm **YumeSKR**. Welcome to my little GitHub universe! 🌸
+<table>
+<tr>
+<td width="64%" valign="middle">
 
-This is where I collect sparks of inspiration, things I'm learning, and little projects as they grow. I hope every small adventure brings me closer to a life I love.
+Hi there, I'm **YumeSKR** 🌸
 
-- 🌷 **Planet resident**: YumeSKR
-- ✨ **Daily quest**: Explore fresh ideas and bring them to life, one step at a time
-- 🧸 **Favorite vibes**: Cute, gentle, and full of imagination
-- 💌 **Come say hi**: Browse my repositories and share a little inspiration
+I like turning sparks of inspiration and curiosity into small things I can actually use. Code, design, sunsets and cute details are what feed my everyday.
+
+This space will slowly fill up with sprouting ideas, notes from whatever I'm learning, and projects as they grow. Feel free to look around, and say hi if you'd like.
+
+- 🌷 **Currently doing**: breaking ideas into small steps and shipping them one by one
+- 🧸 **Favorite vibes**: clean, gentle, and just a little bit cute
+- 📚 **Learning**: new tools, new ways to write things, and how to make them look nicer
+- 💌 **A little note**: slow is fine — moving forward a tiny bit is already lovely
+
+</td>
+<td width="36%" valign="middle">
+
+<div align="center">
+
+<img src="https://github.com/YumeSKR.png" width="160" alt="YumeSKR avatar" />
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 ```text
-   /) /)
-  (｡•ㅅ•｡)  ＜ Welcome!
-   /づ♡  Let's collect ideas together
+    /\_/\
+   ( -.- )   < While you're coding,
+    > ^ <       don't forget to drink water ☕
 ```
 
 </div>
 
-## 💻 Skill Tree: In Progress
+---
+
+## 🌸 Skill Shelf
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-FFD6E8?style=for-the-badge&logo=github&logoColor=FF6FA5)
-![Markdown](https://img.shields.io/badge/Markdown-FFE3EF?style=for-the-badge&logo=markdown&logoColor=FF6FA5)
-![Curiosity](https://img.shields.io/badge/Curiosity-always%20on-FFF3B0?style=for-the-badge&logo=bookstack&logoColor=B8860B)
+**Everyday gear**
 
-`✦ Exploring`　`♡ Leveling up slowly`　`✧ Let's have fun`
+![GitHub](https://img.shields.io/badge/GitHub-FFD6E8?style=for-the-badge&logo=github&logoColor=FF6FA5)
+![Git](https://img.shields.io/badge/Git-FFE3EF?style=for-the-badge&logo=git&logoColor=FF6FA5)
+![Markdown](https://img.shields.io/badge/Markdown-FFD6E8?style=for-the-badge&logo=markdown&logoColor=FF6FA5)
+
+**Unlocking next**
+
+![HTML5](https://img.shields.io/badge/HTML5-FFE3EF?style=for-the-badge&logo=html5&logoColor=FF6FA5)
+![CSS3](https://img.shields.io/badge/CSS3-FFD6E8?style=for-the-badge&logo=css3&logoColor=FF6FA5)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=B8860B)
+![Python](https://img.shields.io/badge/Python-FFE3EF?style=for-the-badge&logo=python&logoColor=FF6FA5)
+
+<img src="https://skillicons.dev/icons?i=github,git,md,html,css,js,py&theme=light" alt="Skill icons" />
 
 </div>
+
+---
 
 ## 🍰 Today's Cuteness Panel
 
 ```text
-☕ Inspiration     ████████░░  80%   "Loading a fresh idea"
+☕ Inspiration     ████████░░  80%   "Loading a fresh idea..."
 🎨 Creative buff   █████████░  90%   "Imagination goes brrr"
-🐛 Debug patience  ██████░░░░  60%   "Take a breath—we've got this"
-🌸 Cuteness        ██████████ 100%   "A permanent planet stat"
+🐛 Debug patience  ██████░░░░  60%   "Take a breath, we've got this"
+🌸 Cuteness        ██████████ 100%   "A fixed stat, no measuring needed"
 ✨ Happy pixels    █████████░  90%   "Every little win is worth a cheer"
 ```
 
 <div align="center">
 
-**Today's note:** 🌷 You don't have to go far all at once. One little step is lovely.
+**Today's note:** 🌷 You don't have to reach far all at once. One small step is lovely.
 
 </div>
+
+---
 
 ## 🚀 Little Project Box
 
 <div align="center">
 
 <a href="https://github.com/YumeSKR?tab=repositories">
-  <img src="https://img.shields.io/badge/Open%20repositories-Explore%20my%20projects%20%E2%86%97-FFD6E8?style=for-the-badge&logo=github&logoColor=FF6FA5" alt="Browse all YumeSKR repositories" />
+  <img src="https://img.shields.io/badge/Repositories-Explore%20my%20projects%20%E2%86%97-FFD6E8?style=for-the-badge&logo=github&logoColor=FF6FA5" alt="Browse all YumeSKR repositories" />
 </a>
 
 <p><i>New ideas and little projects will move in over time. Come back soon!</i></p>
 
 </div>
 
+---
+
 ## 📊 Planet Exploration Log
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=YumeSKR&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF6FA5&icon_color=FFB7C5&text_color=9A6E86" alt="YumeSKR GitHub stats" />
-<img height="168" src="https://streak-stats.demolab.com?user=YumeSKR&hide_border=true&background=FFF0F5&ring=FF9EC4&fire=FF6FA5&currStreakLabel=FF6FA5&sideLabels=9A6E86&dates=B79AB0&currStreakNum=FF6FA5&sideNums=FF6FA5&stroke=FFD6E8" alt="YumeSKR contribution streak" />
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=YumeSKR&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF6FA5&icon_color=FFB7C5&text_color=9A6E86" alt="GitHub stats" />
+<img height="168" src="https://streak-stats.demolab.com?user=YumeSKR&hide_border=true&background=FFF0F5&ring=FF9EC4&fire=FF6FA5&currStreakLabel=FF6FA5&sideLabels=9A6E86&dates=B79AB0&currStreakNum=FF6FA5&sideNums=FF6FA5&stroke=FFD6E8" alt="Contribution streak" />
 
 <br />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumeSKR&layout=compact&langs_count=8&hide_border=true&bg_color=FFF0F5&title_color=FF6FA5&text_color=9A6E86" alt="YumeSKR top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumeSKR&layout=compact&langs_count=8&hide_border=true&bg_color=FFF0F5&title_color=FF6FA5&text_color=9A6E86" alt="Top languages" />
 
 <br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YumeSKR&bg_color=FFF0F5&color=FF6FA5&line=FFB7C5&point=FF6FA5&hide_border=true&area=true" alt="YumeSKR GitHub activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YumeSKR&bg_color=FFF0F5&color=FF6FA5&line=FFB7C5&point=FF6FA5&hide_border=true&area=true" alt="Activity graph" />
 
 </div>
 
@@ -108,7 +147,7 @@ This is where I collect sparks of inspiration, things I'm learning, and little p
 
 <div align="center">
 
-Switch language: <a href="README.md">🇨🇳 简体中文</a>　·　<a href="README.ja.md">🇯🇵 日本語</a>
+Switch language: <a href="https://github.com/YumeSKR/YumeSKR/blob/main/README.md">🇨🇳 简体中文</a>　·　<a href="https://github.com/YumeSKR/YumeSKR/blob/main/README.ja.md">🇯🇵 日本語</a>
 
 <br /><br />
 
